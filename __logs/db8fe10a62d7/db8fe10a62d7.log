@@ -1,0 +1,49 @@
+[2021-10-25 14:24:48,421] [WARNING] message_handlers /workspace/src/message_handlers/__init__.py:30 - No module named 'message_handlers.mask_handler'
+[2021-10-25 14:24:48,425] [WARNING] message_handlers /workspace/src/message_handlers/__init__.py:39 - No module named 'message_handlers.track_handler'
+[2021-10-25 14:24:48,429] [WARNING] message_handlers /workspace/src/message_handlers/__init__.py:48 - No module named 'message_handlers.pose_handler'
+[2021-10-25 14:24:48,432] [WARNING] message_handlers /workspace/src/message_handlers/__init__.py:57 - No module named 'message_handlers.depth_handler'
+[2021-10-25 14:24:48,436] [WARNING] message_handlers /workspace/src/message_handlers/__init__.py:67 - No module named 'message_handlers.track_sort_handler'
+[2021-10-25 14:24:48,439] [WARNING] message_handlers /workspace/src/message_handlers/__init__.py:76 - No module named 'message_handlers.pose_depth_handler'
+[2021-10-25 14:24:48,442] [WARNING] message_handlers /workspace/src/message_handlers/__init__.py:85 - No module named 'message_handlers.face_handler'
+[2021-10-25 14:24:48,444] [WARNING] message_handlers /workspace/src/message_handlers/__init__.py:94 - No module named 'message_handlers.track_sort_handler_experimentation'
+[2021-10-25 14:24:48,449] [WARNING] message_handlers /workspace/src/message_handlers/__init__.py:103 - No module named 'message_handlers.object_handler'
+[2021-10-25 14:24:59,034] [INFO] hubconf /workspace/src/module_object/hubconf.py:19 - Loaded Module: object_handler.py
+[2021-10-25 14:24:59,042] [INFO] module_object.detection /workspace/src/module_object/detection.py:91 - Using default weights: yolov5m.pt
+[2021-10-25 14:25:00,520] [INFO] message_handlers.objectV5_handler /workspace/src/message_handlers/objectV5_handler.py:28 - Loaded Module: object_handler.py
+[2021-10-25 14:25:00,525] [WARNING] message_handlers.objectV5_handler /workspace/src/message_handlers/objectV5_handler.py:36 - CAPX_OBJECT_FILTER not found in docker environment.
+[2021-10-25 14:25:00,814] [WARNING] root /workspace/src/baseworker_controller.py:57 - OPT_REQUEUE_ON_FAILURE not defined, defaulting to 0 (False)
+[2021-10-25 14:26:42,764] [WARNING] message_handlers.objectV5_handler /workspace/src/message_handlers/objectV5_handler.py:141 - AttributeError("'list' object has no attribute 'split'")
+[2021-10-25 14:26:42,768] [WARNING] baseworker_controller /workspace/src/baseworker_controller.py:370 - No downstream defined! Not sending message after message handler returns
+[2021-10-25 14:27:05,926] [WARNING] message_handlers.objectV5_handler /workspace/src/message_handlers/objectV5_handler.py:141 - AttributeError("'list' object has no attribute 'split'")
+[2021-10-25 14:27:05,933] [WARNING] baseworker_controller /workspace/src/baseworker_controller.py:370 - No downstream defined! Not sending message after message handler returns
+[2021-10-25 14:27:13,700] [WARNING] message_handlers.objectV5_handler /workspace/src/message_handlers/objectV5_handler.py:141 - AttributeError("'list' object has no attribute 'split'")
+[2021-10-25 14:27:13,711] [WARNING] baseworker_controller /workspace/src/baseworker_controller.py:370 - No downstream defined! Not sending message after message handler returns
+[2021-10-25 14:27:20,904] [WARNING] message_handlers.objectV5_handler /workspace/src/message_handlers/objectV5_handler.py:141 - AttributeError("'list' object has no attribute 'split'")
+[2021-10-25 14:27:20,909] [WARNING] baseworker_controller /workspace/src/baseworker_controller.py:370 - No downstream defined! Not sending message after message handler returns
+[2021-10-25 14:27:41,188] [WARNING] message_handlers.objectV5_handler /workspace/src/message_handlers/objectV5_handler.py:141 - AttributeError("'list' object has no attribute 'split'")
+[2021-10-25 14:27:41,198] [WARNING] baseworker_controller /workspace/src/baseworker_controller.py:370 - No downstream defined! Not sending message after message handler returns
+[2021-10-25 14:27:47,853] [WARNING] message_handlers.objectV5_handler /workspace/src/message_handlers/objectV5_handler.py:141 - AttributeError("'list' object has no attribute 'split'")
+[2021-10-25 14:27:47,859] [WARNING] baseworker_controller /workspace/src/baseworker_controller.py:370 - No downstream defined! Not sending message after message handler returns
+[2021-10-25 14:27:53,087] [WARNING] message_handlers.objectV5_handler /workspace/src/message_handlers/objectV5_handler.py:141 - AttributeError("'list' object has no attribute 'split'")
+[2021-10-25 14:27:53,094] [WARNING] baseworker_controller /workspace/src/baseworker_controller.py:370 - No downstream defined! Not sending message after message handler returns
+[2021-10-25 14:27:58,527] [WARNING] message_handlers.objectV5_handler /workspace/src/message_handlers/objectV5_handler.py:141 - AttributeError("'list' object has no attribute 'split'")
+[2021-10-25 14:27:58,576] [WARNING] baseworker_controller /workspace/src/baseworker_controller.py:370 - No downstream defined! Not sending message after message handler returns
+[2021-10-25 14:28:04,065] [WARNING] message_handlers.objectV5_handler /workspace/src/message_handlers/objectV5_handler.py:141 - AttributeError("'list' object has no attribute 'split'")
+[2021-10-25 14:28:04,089] [WARNING] baseworker_controller /workspace/src/baseworker_controller.py:370 - No downstream defined! Not sending message after message handler returns
+[2021-10-25 14:28:09,514] [WARNING] message_handlers.objectV5_handler /workspace/src/message_handlers/objectV5_handler.py:141 - AttributeError("'list' object has no attribute 'split'")
+[2021-10-25 14:28:09,531] [WARNING] baseworker_controller /workspace/src/baseworker_controller.py:370 - No downstream defined! Not sending message after message handler returns
+[2021-10-25 14:28:14,178] [WARNING] message_handlers.objectV5_handler /workspace/src/message_handlers/objectV5_handler.py:141 - AttributeError("'list' object has no attribute 'split'")
+[2021-10-25 14:28:14,184] [WARNING] baseworker_controller /workspace/src/baseworker_controller.py:370 - No downstream defined! Not sending message after message handler returns
+[2021-10-25 14:28:18,918] [WARNING] message_handlers.objectV5_handler /workspace/src/message_handlers/objectV5_handler.py:141 - AttributeError("'list' object has no attribute 'split'")
+[2021-10-25 14:28:18,928] [WARNING] baseworker_controller /workspace/src/baseworker_controller.py:370 - No downstream defined! Not sending message after message handler returns
+[2021-10-25 14:28:37,102] [WARNING] message_handlers.objectV5_handler /workspace/src/message_handlers/objectV5_handler.py:141 - AttributeError("'list' object has no attribute 'split'")
+[2021-10-25 14:28:37,110] [WARNING] baseworker_controller /workspace/src/baseworker_controller.py:370 - No downstream defined! Not sending message after message handler returns
+[2021-10-25 14:28:43,669] [WARNING] message_handlers.objectV5_handler /workspace/src/message_handlers/objectV5_handler.py:141 - AttributeError("'list' object has no attribute 'split'")
+[2021-10-25 14:28:43,678] [WARNING] baseworker_controller /workspace/src/baseworker_controller.py:370 - No downstream defined! Not sending message after message handler returns
+[2021-10-25 14:28:49,690] [WARNING] message_handlers.objectV5_handler /workspace/src/message_handlers/objectV5_handler.py:141 - AttributeError("'list' object has no attribute 'split'")
+[2021-10-25 14:28:49,700] [WARNING] baseworker_controller /workspace/src/baseworker_controller.py:370 - No downstream defined! Not sending message after message handler returns
+[2021-10-25 14:28:54,935] [WARNING] message_handlers.objectV5_handler /workspace/src/message_handlers/objectV5_handler.py:141 - AttributeError("'list' object has no attribute 'split'")
+[2021-10-25 14:28:54,949] [WARNING] baseworker_controller /workspace/src/baseworker_controller.py:370 - No downstream defined! Not sending message after message handler returns
+[2021-10-25 14:33:32,211] [WARNING] __main__ main.py:182 - closing all external connections
+[2021-10-25 14:33:32,227] [WARNING] __main__ main.py:192 - asyncmain cancelled
+[2021-10-25 14:33:32,234] [WARNING] __main__ main.py:194 - asyncmain exiting

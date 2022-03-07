@@ -1,0 +1,14 @@
+{
+    "source": "file:/workspace/data/car.jpg",
+    "context": {
+        "project_id": "project_id",
+        "timecode": "timecode",
+        "debug": true,
+        "interest_region": [],
+        "object_filter": []
+    },
+    "data": {},
+    "action": "process",
+    "prev": [],
+    "next": []
+}

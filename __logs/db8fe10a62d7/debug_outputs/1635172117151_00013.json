@@ -1,0 +1,53 @@
+{
+    "source": "file:/workspace/images/13.jpg",
+    "context": {
+        "project_id": "project_id",
+        "timecode": "timecode",
+        "interest_region": [],
+        "object_filter": [],
+        "debug": true
+    },
+    "data": {
+        "object": [
+            {
+                "bbox": [
+                    203.4541778564453,
+                    136.1377716064453,
+                    410.7107391357422,
+                    512.7621307373047
+                ],
+                "score": 0.879577100276947,
+                "category": "person"
+            },
+            {
+                "bbox": [
+                    0.0,
+                    342.83441162109375,
+                    119.84379577636719,
+                    423.60882568359375
+                ],
+                "score": 0.8582373857498169,
+                "category": "horse"
+            },
+            {
+                "bbox": [
+                    197.4915313720703,
+                    316.00885009765625,
+                    743.1829071044922,
+                    451.99114990234375
+                ],
+                "score": 0.6535522937774658,
+                "category": "horse"
+            }
+        ]
+    },
+    "action": "process",
+    "prev": [
+        {
+            "worker": "object",
+            "start": 1635172116049,
+            "duration": 1060
+        }
+    ],
+    "next": []
+}
