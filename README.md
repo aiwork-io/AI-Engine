@@ -1,4 +1,7 @@
-# To test AI-Engine
+# AI-Engine
+This repo contains the link to the docker image of the AI engine together with the set-up instructions
+
+## To test AI-Engine
 
 1. First download the AI-Engine docker image from the [google drive](https://drive.google.com/file/d/1wzTou0ggRDR00ORojwTDX8BaAFk8_Ve5/view?usp=sharing) 
 
